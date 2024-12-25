@@ -3,6 +3,7 @@
 Analyzing Seattle is a fun project i'm working on where I take open datasets from government agencies (with a focus on Seattle) and analyze them for fun! I have currently worked on:
 - Moving Seattle Parking Transactions to a `mySQL` database
 - Moving EVERY Licenced Pet since 2016 to a `mySQL` database
+- Moved a list of every Washington state-licensed electric vehicle into a `mySQL` db
 
 I will be working on graphing these and analyzing the data but for now I can make some pretty simple cool facts:
 
